@@ -33,6 +33,6 @@ class ChromeVersionTest extends VersionTestParent {
     void setup() {
         driverClass = ChromeDriver.class;
         specificVersions = new String[] { "122.0.6261.94" };
-    }
+    } 
 
 }
